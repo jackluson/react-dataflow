@@ -1,0 +1,8 @@
+const ADD = "ADD";
+const SUBTRACT = "SUBTRACT";
+const CHANGE_VISIBILITY = "CHANGE_VISIBILITY";
+export default {
+  ADD,
+  SUBTRACT,
+  CHANGE_VISIBILITY
+};
